@@ -1,4 +1,4 @@
-# Human-Presence-Sensing
+# Human Presence Sensing
 
 Data: Consists of outputs from 4 sensors that predict the presence of Humans in a room. Additionally, it also contains the prediction from a black-box algorithm that uses the outputs from the sensors to predict human presence.
 
